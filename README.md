@@ -5,7 +5,7 @@ I build infrastructure for voice AI, telephony, MCP, and developer tools.
 Online, I go by `ryu`.
 
 - Website: [alokranjan.me](https://alokranjan.me)
-- GitHub: [@aloki-alok](https://github.com/aloki-alok)
+- GitHub: [@aloki-alok](https://github.com/aloki-alok) · [@ryu-ryuk](https://github.com/ryu-ryuk/)
 - LinkedIn: [ryulore](https://linkedin.com/in/ryulore)
 
 ## Currently
@@ -14,6 +14,6 @@ Online, I go by `ryu`.
 - Building [crwl.sh](https://crwl.sh), an agent-readiness scanner
 - Building [mctop](https://mctop.org), a terminal client for MCP servers
 
-## I work with
+## I enjoy working with
 
-Go · TypeScript · Python · SIP · Asterisk · MCP · Cloudflare · Linux
+Python · TypeScript · Go · SIP · Asterisk · MCP · Linux Adminstration
