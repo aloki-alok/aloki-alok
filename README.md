@@ -1,8 +1,6 @@
-# Alok Ranjan
+# Alok Ranjan (ryu)
 
 I build infrastructure for voice AI, telephony, MCP, and developer tools.
-
-Online, I go by `ryu`.
 
 - Website: [alokranjan.me](https://alokranjan.me)
 - GitHub: [@aloki-alok](https://github.com/aloki-alok) · [@ryu-ryuk](https://github.com/ryu-ryuk/)
