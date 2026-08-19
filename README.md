@@ -8,7 +8,7 @@ I build infrastructure for voice AI, telephony, MCP, and developer tools.
 
 ## Currently
 
-- Building voice AI infrastructure at [OmniDimension](https://omnidim.io)
+- Building voice AI at [OmniDimension](https://omnidim.io)
 - Building [crwl.sh](https://crwl.sh), an agent-readiness scanner
 - Building [mctop](https://mctop.org), a terminal client for MCP servers
 
