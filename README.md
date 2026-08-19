@@ -14,4 +14,4 @@ I build infrastructure for voice AI, telephony, MCP, and developer tools.
 
 ## I enjoy working with
 
-Python · TypeScript · Go · SIP · Asterisk · MCP · Linux Adminstration
+Python · TypeScript · Go · SIP · Asterisk · MCP · Linux Adminstration · Anything niche ;)
