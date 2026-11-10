@@ -14,3 +14,7 @@ At [OmniDimension](https://omnidim.io) I build the voice AI product and the infr
 Python · TypeScript · Go · AWS · Docker · GitHub Actions · Grafana · Asterisk
 
 [alokranjan.me](https://alokranjan.me) · [X](https://x.com/aloki_alok) · [LinkedIn](https://linkedin.com/in/ryulore) · [@ryu-ryuk](https://github.com/ryu-ryuk)
+
+<br><br>
+
+<img src="ascii-field.svg" alt="alok, drawn in ASCII" width="100%">
