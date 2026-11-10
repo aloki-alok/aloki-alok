@@ -1,3 +1,5 @@
+<img src="ascii-field.svg" alt="alok, drawn in ASCII" width="100%">
+
 DevOps and platform engineer. i love OSS :)
 
 At [OmniDimension](https://omnidim.io) I build the voice AI product and the infra it runs on: telephony, CI/CD, observability.
