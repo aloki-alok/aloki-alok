@@ -1,19 +1,16 @@
-i love OSS, currently building Voice AI systems :)
+DevOps and platform engineer. i love OSS :)
 
-- Website: [alokranjan.me](https://alokranjan.me)
-- Open source index: [aloki-alok.github.io](https://aloki-alok.github.io)
-- X: [@aloki_alok](https://x.com/aloki_alok)
-- GitHub: [@aloki-alok](https://github.com/aloki-alok) · [@ryu-ryuk](https://github.com/ryu-ryuk/)
-- LinkedIn: [ryulore](https://linkedin.com/in/ryulore)
+At [OmniDimension](https://omnidim.io) I build the voice AI product and the infra it runs on: telephony, CI/CD, observability.
 
-## Currently
+## Open source
 
-- Building voice AI at [OmniDimension](https://omnidim.io)
-- Building [Kana](https://aloki-alok.github.io/kana/)
-- Building [crwl.sh](https://crwl.sh), an agent-readiness scanner
-- Building [mctop](https://mctop.org), a terminal client for MCP servers
-- Building [mailgrade](https://aloki-alok.github.io/mailgrade/), an email deliverability grader for the terminal
+- [kage](https://github.com/aloki-alok/kage): your own Claude Code, from any channel. Tag it in a thread and it replies there.
+- [crwl.sh](https://crwl.sh): agent-readiness scanner
+- [mctop](https://mctop.org): terminal client for MCP servers
+- [mcpify](https://github.com/aloki-alok/mcpify): OpenAPI spec to MCP server
 
-## I enjoy working with
+## Stack
 
-Python · TypeScript · Go · SIP · Asterisk · MCP · Linux Administration · Anything niche ;)
+Python · TypeScript · Go · AWS · Docker · GitHub Actions · Grafana · Asterisk
+
+[alokranjan.me](https://alokranjan.me) · [X](https://x.com/aloki_alok) · [LinkedIn](https://linkedin.com/in/ryulore) · [@ryu-ryuk](https://github.com/ryu-ryuk)
